@@ -25,5 +25,5 @@ def asalBul(sayi):
                 print('degildir')
     print('asaldir')
 
-asalBul(4)
+
 
